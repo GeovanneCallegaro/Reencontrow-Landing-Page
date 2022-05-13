@@ -330,7 +330,11 @@ footer .icons {
   padding: 5px;
 }
 
-footer .icons i {
+footer .icons a {
+  color: #fff;
+}
+
+footer .icons a i {
   padding: 5px;
   font-size: 2.5rem;
   cursor: pointer;
